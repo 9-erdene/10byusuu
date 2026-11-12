@@ -1,0 +1,29 @@
+#box{
+    color: #071b2b;
+    width: 320px;
+    height: 300px;
+    border-radius: 12px;
+    box-shadow: 0 4px 16px #167D8D;
+    background-color: #B9E4E8;
+  }
+  body {
+    padding: 20px ;
+  }
+  
+  form {
+    width: 100%;
+  }
+input { 
+  width: 300px; 
+  padding: 8px; 
+}
+button{ 
+  background: #480ab482; 
+  width: 320px; 
+  height: 55px;
+  color: white;
+  position: center;
+  text-align: middle;
+  padding-bottom: 10px;
+  
+}
